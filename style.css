@@ -3,8 +3,17 @@ body {
     color: white;
     font-size: large;
 }
-    .myphoto {
+.myphoto {
     display: block;
     margin: 0 auto;
     margin-top: 0;
+}
+
+.poster {
+    display: block;
+    margin: 0 auto;
+    margin-top: 0;
+}
+.links {
+    text-align: center;
 }
