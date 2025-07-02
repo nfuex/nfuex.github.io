@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+    .myphoto {
+    display: block;
+    margin: 0 auto;
+    margin-top: 0;
+}
